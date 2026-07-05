@@ -16,3 +16,5 @@ This repo is where I'm learning Git and GitHub from scratch.
 
 \- Tags and .gitignore
 
+\-Thanks Claude
+
